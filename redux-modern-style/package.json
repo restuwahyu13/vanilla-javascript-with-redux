@@ -1,0 +1,35 @@
+{
+  "name": "redux-app",
+  "version": "1.0.0",
+  "description": "example redux tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "build": "webpack --config webpack.config.js --progress --cache -p",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "restuwahyu13"
+  },
+  "keywords": [
+    "redux",
+    "vanilla javascript"
+  ],
+  "author": "restuwahyu13",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.2.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "babel-loader": "^8.0.6",
+    "babel-preset-env": "^1.7.0",
+    "html-webpack-plugin": "^4.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-logger": "^3.0.6",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
