@@ -1,14 +1,14 @@
 ### Example Vanilla Javascript With Redux
 
-**Berikut** adalah contoh sederhana cara pengunaan dasar pada **Redux** untuk aplikasi **JavaScript** atau aplikasi yang bukan menggunakan **JavaScript**, semoga dengan adanya ini anda bisa memahami fungsi dari **Redux** itu sendiri, sebelum anda mengunakannya pada **React Js Application** atau yang lainnya, disini saya menggunakan 2 cara yang berbeda yaitu:
+**Berikut** adalah contoh sederhana cara pengunaan dasar pada `Redux` untuk aplikasi `JavaScript` atau aplikasi yang bukan menggunakan `JavaScript`, semoga dengan adanya ini anda bisa memahami fungsi dari `Redux` itu sendiri, sebelum anda mengunakannya pada `React Js Application` atau yang lainnya, disini saya menggunakan 2 cara yang berbeda yaitu:
 
-*  **Yang pertama** saya menggunakan Redux Old Style dengan menggunakan package dari **redux**
+*  **Yang pertama** saya menggunakan Redux Old Style dengan menggunakan package dari `Redux`
 
-*  **Yang kedua** saya menggunakan Redux Modern Style dengan menggunakan package dari **redux toolkit**
+*  **Yang kedua** saya menggunakan Redux Modern Style dengan menggunakan package dari `Redux Toolkit`
 
 #### Penjelasan Apa itu Redux ? :
 
-**Redux** adalah sebuah **Library JavaScript** untuk memanagement sebuah state pada aplikasi, jika aplikasi tersebut tidak lagi memungkinkan untuk memanagement sebuah state, jika aplikasi tersebut sudah semakin besar dan kompleks, maka dari itu kita sudah harus menggunakan **Redux** untuk memanagement state, agar lebih rapih dan terstruktur.
+**Redux** adalah sebuah `Library JavaScript` untuk memanagement sebuah state pada aplikasi, jika aplikasi tersebut tidak lagi memungkinkan untuk memanagement sebuah state, jika aplikasi tersebut sudah semakin besar dan kompleks, maka dari itu kita sudah harus menggunakan `Redux` untuk memanagement state, agar lebih rapih dan terstruktur.
 
 #### Cara Menjalankan Aplikasi :
 
