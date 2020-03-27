@@ -20,7 +20,7 @@
 
 * **Reducers** adalah dimana suatu keadaan aplikasi itu akan berubah, sesuai permintaan yang diberikan oleh store yang dikirimkan melalui **action**
 
-* **Store** adalah tempat yang berisi kumpulan `state`, `reducer` dan `action` untuk memanagement data
+* **Store** adalah tempat yang berisi kumpulan `state`, `reducer` dan `action` untuk memanagement sebuah data
 
 #### Penjelasan Fungsi Method Pada Redux :
 
